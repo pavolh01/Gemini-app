@@ -32,7 +32,7 @@ function Main() {
     <div className="h-screen w-full flex flex-col overflow-hidden">
       <div className="p-3 flex justify-between items-center w-full bg-white shadow-md">
         <div className="w-full">
-          <p className="pt-[4px] font-normal ml-12 text-xl">Gemini</p>
+          <p className="pt-[4px] font-normal ml-12 text-xl">Normen</p>
         </div>
         <div className="flex items-center rounded-full w-auto" onClick={togglePopup}>
           <img
@@ -76,7 +76,7 @@ function Main() {
               <div className="mx-auto max-w-[844px] flex flex-col justify-start">
                 <span className="w-full flex justify-start">
                   <h1 className="text-4xl sm:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 via-purple-500 to-red-500">
-                    Hello, Kashif
+                    Hello, welcome to Normen light!
                   </h1>
                 </span>
                 <span className="flex justify-start">
